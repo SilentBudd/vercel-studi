@@ -21,7 +21,7 @@ export default {
         {
             name: "password",
             title: "Password",
-            type: "password"
+            type: "string"
         },
         {
             name: "photo",
