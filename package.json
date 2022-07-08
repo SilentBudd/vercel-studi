@@ -2,7 +2,7 @@
   "name": "vercel-studio",
   "private": true,
   "version": "1.0.0",
-  "description": "",
+  "description": "ScapeLink API Studio",
   "main": "package.json",
   "author": "SilentBudd <cristi.czh@gmail.com>",
   "license": "UNLICENSED",
